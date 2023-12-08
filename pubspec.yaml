@@ -16,7 +16,7 @@ dependencies:
   intl: ^0.18.0
   google_fonts:
   http: ^0.13.6
-  logger: ^1.4.0
+  logger: ^2.0.2+1
   json_annotation: ^4.8.1
   get_it: ^7.2.0
   freezed_annotation: ^2.2.0
